@@ -1,0 +1,51 @@
+job_title,company,location,experience_years,employment_type,skills,education,salary_lpa
+Data Scientist,TechNova,Hyderabad,2,Full-time,Python|SQL|Machine Learning,BTech,7.5
+Data Analyst,DataCorp,Bangalore,1,Full-time,Python|SQL|Excel,BTech,5.2
+Machine Learning Engineer,AI Labs,Bangalore,3,Full-time,Python|TensorFlow|Machine Learning,BTech,9.5
+Data Scientist,InnovateTech,Pune,4,Full-time,Python|SQL|Deep Learning,MTech,11.0
+Business Analyst,FinServe,Mumbai,2,Full-time,SQL|Excel|Power BI,BTech,6.5
+Data Analyst,HealthData,Hyderabad,1,Full-time,Python|SQL|Power BI,BTech,5.8
+ML Engineer,CloudAI,Chennai,3,Full-time,Python|AWS|Machine Learning,BTech,8.8
+Data Scientist,TechWorks,Bangalore,5,Full-time,Python|SQL|NLP,MTech,13.5
+Data Analyst,MarketPro,Delhi,2,Full-time,Excel|SQL|Tableau,BTech,6.0
+Data Engineer,DataFlow,Hyderabad,3,Full-time,Python|SQL|Spark,BTech,8.2
+Data Scientist,AI Solutions,Pune,2,Full-time,Python|Machine Learning|Pandas,BTech,7.8
+Business Analyst,ConsultCorp,Mumbai,3,Full-time,SQL|Power BI|Excel,MBA,8.0
+Data Analyst,FinTechPro,Bangalore,2,Full-time,Python|SQL|Tableau,BTech,6.7
+ML Engineer,DeepTech,Hyderabad,4,Full-time,Python|PyTorch|Deep Learning,MTech,10.5
+Data Scientist,SmartData,Chennai,3,Full-time,Python|SQL|Machine Learning,BTech,8.9
+Data Engineer,CloudData,Pune,2,Full-time,Python|SQL|AWS,BTech,7.2
+Data Analyst,AnalyticsHub,Hyderabad,1,Full-time,Excel|SQL|Power BI,BTech,5.5
+Data Scientist,FutureAI,Bangalore,4,Full-time,Python|NLP|Machine Learning,MTech,11.8
+Business Analyst,InfoTech,Delhi,2,Full-time,SQL|Excel|Tableau,BTech,6.8
+Data Engineer,BigDataCorp,Chennai,4,Full-time,Python|Spark|SQL,BTech,9.0
+ML Engineer,VisionAI,Bangalore,2,Full-time,Python|Computer Vision|TensorFlow,BTech,8.0
+Data Analyst,RetailData,Mumbai,1,Full-time,SQL|Excel|Power BI,BTech,5.0
+Data Scientist,QuantumData,Hyderabad,5,Full-time,Python|Deep Learning|SQL,MTech,14.2
+Data Engineer,TechStream,Pune,3,Full-time,Python|Spark|AWS,BTech,8.7
+Data Analyst,DataVision,Bangalore,2,Full-time,Python|SQL|Tableau,BTech,6.4
+ML Engineer,AIWorks,Hyderabad,3,Full-time,Python|Scikit-learn|Machine Learning,BTech,9.2
+Data Scientist,NeuralTech,Chennai,2,Full-time,Python|TensorFlow|NLP,BTech,8.1
+Business Analyst,BusinessPro,Mumbai,4,Full-time,SQL|Power BI|Excel,MBA,9.5
+Data Engineer,DataStack,Delhi,3,Full-time,Python|SQL|Spark,BTech,8.0
+Data Analyst,InsightCorp,Hyderabad,1,Full-time,Excel|SQL|Power BI,BTech,5.6
+Data Scientist,DataMind,Bangalore,3,Full-time,Python|Pandas|Machine Learning,BTech,9.0
+ML Engineer,RoboticsAI,Pune,4,Full-time,Python|PyTorch|Computer Vision,MTech,10.8
+Data Analyst,HealthTech,Chennai,2,Full-time,Python|SQL|Excel,BTech,6.2
+Data Engineer,CloudWorks,Hyderabad,5,Full-time,Python|AWS|SQL,BTech,11.0
+Data Scientist,AIFirst,Mumbai,2,Full-time,Python|SQL|NLP,BTech,7.9
+Business Analyst,DataConsult,Bangalore,3,Full-time,SQL|Power BI|Tableau,MBA,8.7
+Data Analyst,SmartAnalytics,Pune,1,Full-time,Excel|SQL|Tableau,BTech,5.3
+ML Engineer,MLWorks,Delhi,3,Full-time,Python|TensorFlow|Machine Learning,BTech,8.9
+Data Scientist,TechAI,Hyderabad,4,Full-time,Python|Deep Learning|SQL,MTech,12.0
+Data Engineer,DataCloud,Bangalore,2,Full-time,Python|Spark|SQL,BTech,7.5
+Data Analyst,FinanceData,Mumbai,2,Full-time,Python|SQL|Power BI,BTech,6.5
+Data Scientist,NextGenAI,Pune,3,Full-time,Python|Machine Learning|NLP,BTech,9.8
+Business Analyst,EnterpriseTech,Hyderabad,4,Full-time,SQL|Excel|Power BI,MBA,9.2
+ML Engineer,AIResearch,Bangalore,5,Full-time,Python|PyTorch|Deep Learning,MTech,13.0
+Data Engineer,BigDataLabs,Chennai,3,Full-time,Python|Spark|AWS,BTech,8.5
+Data Analyst,DataTrack,Delhi,1,Full-time,Excel|SQL|Power BI,BTech,5.4
+Data Scientist,VisionData,Hyderabad,2,Full-time,Python|Computer Vision|SQL,BTech,8.3
+ML Engineer,SmartAI,Pune,3,Full-time,Python|Scikit-learn|TensorFlow,BTech,9.4
+Data Analyst,MarketData,Bangalore,2,Full-time,SQL|Tableau|Excel,BTech,6.3
+Data Scientist,FutureTech,Chennai,5,Full-time,Python|NLP|Deep Learning,MTech,13.2
